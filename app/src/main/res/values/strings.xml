@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidButtonNavigation</string>
+    <string name="navigationDrawerOpen">Navigation Drawer is open</string>
+    <string name="navigationDrawerClose">Navigation Drawer is Close</string>
+    <string-array name="list">
+        <item>shafiq</item>
+        <item>ibrahim</item>
+        <item>mirza</item>
+        <item>maza</item>
+        <item>imran</item>
+        <item>sohel</item>
+        <item>mustahib</item>
+    </string-array>
+</resources>
